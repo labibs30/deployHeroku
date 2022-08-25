@@ -28,6 +28,8 @@
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
         }
+    },"platform": {
+        "php": "8.0"
     },
     "autoload-dev": {
         "psr-4": {
